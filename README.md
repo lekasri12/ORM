@@ -8,7 +8,7 @@ To develop a Django application to store and retrieve data from a Book database 
 ![alt text](lekasri/screenshot.jpg)
 
 
-## DESIGN STEPS
+## DESIGN STEPS:
 
 ### STEP 1:
 Clone the problem from GitHub
